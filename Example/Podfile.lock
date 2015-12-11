@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  LiquidFloatingActionButton: 12ed6f642365142f85c73eaebef8c40b6590511e
+  LiquidFloatingActionButton: 4d9317f2f4d103da2e80aba49b78bcc728935481
 
 COCOAPODS: 0.39.0
