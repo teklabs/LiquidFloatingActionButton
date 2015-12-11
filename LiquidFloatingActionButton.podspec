@@ -20,11 +20,11 @@ Pod::Spec.new do |s|
                       Material Design Floating Action Button in liquid state inspired by http://www.materialup.com/posts/material-in-a-liquid-state
                        DESC
 
-  s.homepage         = "https://github.com/yoavlt/LiquidFloatingActionButton"
+  s.homepage         = "https://github.com/teklabs/LiquidFloatingActionButton"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Takuma Yoshida" => "yoa.jmpr.w@gmail.com" }
-  s.source           = { :git => "https://github.com/yoavlt/LiquidFloatingActionButton.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/teklabs/LiquidFloatingActionButton.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '8.0'
